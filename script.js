@@ -1,5 +1,5 @@
 const pdfContainer = document.getElementById('pdf-container');
-const pdfUrl = 'Anantaa Aktiiv Foods and Beverages.pdf';
+const pdfUrl = 'Website pages Aktiiv Foods.pdf';
 
 async function loadPdf() {
     try {
